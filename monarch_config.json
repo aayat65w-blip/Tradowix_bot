@@ -1,0 +1,11 @@
+{
+  "telegram": true,
+  "token": "8759815176:AAESNRA5N_hfhnk6_5oDrmNNJtzFFxF3lx0",
+  "chat_id": "6417401051",
+  "timeframe": "M1",
+  "charts": true,
+  "proxy": "",
+  "auto_route": true,
+  "max_loss_prob": 0.26,
+  "send_before": 10
+}
