@@ -77,9 +77,9 @@ CORE_OTC = [
     "GBPCHF_otc", "EURCHF_otc", "AUDNZD_otc", "EURNZD_otc", "GBPNZD_otc",
     "BRLUSD_otc", "USDBDT_otc", "USDARS_otc", "USDEGP_otc", "USDCOP_otc",
     "USDDZD_otc", "USDINR_otc", "USDIDR_otc", "USDMXN_otc", "USDNGN_otc",
-    "USDPKR_otc", "USDPHP_otc", "USDZAR_otc", "USDTRY_otc",
+    "USDPKR_otc", "USDPHP_otc", "USDZAR_otc", "USDTRY_otc","BTCUSD_otc", "ETHUSD_otc", "SOLUSD_otc",
+               "BNBUSD_otc","APTUSD_otc","ARBUSD_otc","AVAUSD_otc","DASUSD_otc",
 ]
-
 
 class C:
     R = "\033[0m"; B = "\033[1m"; D = "\033[2m"
